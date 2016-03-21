@@ -1,6 +1,6 @@
-# Game Core List
+# Tools List
 
-This is a list of all our **[Game Cores](https://github.com/AmazingCow-Game-Core)**.
+This is a list of all our **[Tools](https://github.com/AmazingCow-Tools)**.
 
 <!-- ####################################################################### -->
 
@@ -23,7 +23,7 @@ Thank you and enjoy :D
 
 ## Info:
 
-#### Organization Page: [https://github.com/AmazingCow-Game-Core](https://github.com/AmazingCow-Game-Core)
+#### Organization Page: [https://github.com/AmazingCow-Tools-List](https://github.com/AmazingCow-Tools-List)
 
 #### List of Repos:
 
