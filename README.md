@@ -23,7 +23,7 @@ Thank you and enjoy :D
 
 ## Info:
 
-#### Organization Page: [https://github.com/AmazingCow-Tools-List](https://github.com/AmazingCow-Tools-List)
+#### Organization Page: [https://github.com/AmazingCow-Tools](https://github.com/AmazingCow-Tools)
 
 #### List of Repos:
 
