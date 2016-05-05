@@ -27,15 +27,19 @@ Thank you and enjoy :D
 
 #### List of Repos:
 
-* [COWTODO](https://github.com/AmazingCow-Tools/COWTODO)
-* [FrameMerger](https://github.com/AmazingCow-Tools/FrameMerger)
-* [Gosh](https://github.com/AmazingCow-Tools/Gosh)
-* [GuardChecker](https://github.com/AmazingCow-Tools/GuardChecker)
-* [ImageOrganizer](https://github.com/AmazingCow-Tools/ImageOrganizer)
-* [Linux_USBBootCreator](https://github.com/AmazingCow-Tools/Linux_USBBootCreator)
-* [OSX_USBBootCreator](https://github.com/AmazingCow-Tools/OSX_USBBootCreator)
-* [PhotoShow](https://github.com/AmazingCow-Tools/PhotoShow)
-* [Tasks](https://github.com/AmazingCow-Tools/Tasks)
+* [Bin2Header](https://www.github.com/AmazingCow-Tools/Bin2Header/)
+* [COWTODO](https://www.github.com/AmazingCow-Tools/COWTODO/)
+* [FrameMerger](https://www.github.com/AmazingCow-Tools/FrameMerger/)
+* [Gosh](https://www.github.com/AmazingCow-Tools/Gosh/)
+* [GuardChecker](https://www.github.com/AmazingCow-Tools/GuardChecker/)
+* [ImageConveter](https://www.github.com/AmazingCow-Tools/ImageConveter/)
+* [ImageOrganizer](https://www.github.com/AmazingCow-Tools/ImageOrganizer/)
+* [Linux_USBBootCreator](https://www.github.com/AmazingCow-Tools/Linux_USBBootCreator/)
+* [OSX_USBBootCreator](https://www.github.com/AmazingCow-Tools/OSX_USBBootCreator/)
+* [PhotoShow](https://www.github.com/AmazingCow-Tools/PhotoShow/)
+* [super-rename](https://www.github.com/AmazingCow-Tools/super-rename/)
+* [Tasks](https://www.github.com/AmazingCow-Tools/Tasks/)
+
 
 <!-- ####################################################################### -->
 
