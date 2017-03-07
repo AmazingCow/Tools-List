@@ -1,6 +1,6 @@
-# Tools List
+# AmazingCow-Tools List
 
-This is a list of all our **[Tools](https://github.com/AmazingCow-Tools)**.
+This is a list of all our **[AmazingCow-Tools](https://github.com/AmazingCow-Tools)**.
 
 <!-- ####################################################################### -->
 
@@ -27,18 +27,20 @@ Thank you and enjoy :D
 
 #### List of Repos:
 
-* [Bin2Header](https://www.github.com/AmazingCow-Tools/Bin2Header/)
-* [COWTODO](https://www.github.com/AmazingCow-Tools/COWTODO/)
-* [FrameMerger](https://www.github.com/AmazingCow-Tools/FrameMerger/)
-* [Gosh](https://www.github.com/AmazingCow-Tools/Gosh/)
-* [GuardChecker](https://www.github.com/AmazingCow-Tools/GuardChecker/)
-* [ImageConveter](https://www.github.com/AmazingCow-Tools/ImageConveter/)
-* [ImageOrganizer](https://www.github.com/AmazingCow-Tools/ImageOrganizer/)
-* [Linux_USBBootCreator](https://www.github.com/AmazingCow-Tools/Linux_USBBootCreator/)
-* [OSX_USBBootCreator](https://www.github.com/AmazingCow-Tools/OSX_USBBootCreator/)
-* [PhotoShow](https://www.github.com/AmazingCow-Tools/PhotoShow/)
-* [super-rename](https://www.github.com/AmazingCow-Tools/super-rename/)
-* [Tasks](https://www.github.com/AmazingCow-Tools/Tasks/)
+* [Bin2Header](https://github.com/AmazingCow-Tools/Bin2Header.git)
+* [cowss](https://github.com/AmazingCow-Tools/cowss.git)
+* [COWTODO](https://github.com/AmazingCow-Tools/COWTODO.git)
+* [DummyTextures](https://github.com/AmazingCow-Tools/DummyTextures.git)
+* [FrameMerger](https://github.com/AmazingCow-Tools/FrameMerger.git)
+* [Gosh](https://github.com/AmazingCow-Tools/Gosh.git)
+* [GuardChecker](https://github.com/AmazingCow-Tools/GuardChecker.git)
+* [ImageConveter](https://github.com/AmazingCow-Tools/ImageConveter.git)
+* [ImageOrganizer](https://github.com/AmazingCow-Tools/ImageOrganizer.git)
+* [Linux_USBBootCreator](https://github.com/AmazingCow-Tools/Linux_USBBootCreator.git)
+* [OSX_USBBootCreator](https://github.com/AmazingCow-Tools/OSX_USBBootCreator.git)
+* [super-rename](https://github.com/AmazingCow-Tools/super-rename.git)
+
+
 
 
 <!-- ####################################################################### -->
@@ -53,3 +55,5 @@ The other AmazingCow organization pages:
 * [AmazingCow-Game](https://github.com/AmazingCow-Game)
 * [AmazingCow-Libs](https://github.com/AmazingCow-Libs)
 * [AmazingCow-Tools](https://github.com/AmazingCow-Tools)
+* [AmazingCow-Imidiar](https://github.com/AmazingCow-Imidiar)
+
