@@ -36,6 +36,7 @@ Thank you and enjoy :D
 * [GuardChecker](https://github.com/AmazingCow-Tools/GuardChecker.git)
 * [ImageConveter](https://github.com/AmazingCow-Tools/ImageConveter.git)
 * [ImageOrganizer](https://github.com/AmazingCow-Tools/ImageOrganizer.git)
+* [License_Header_Checker](https://github.com/AmazingCow-Tools/License_Header_Checker.git)
 * [Linux_USBBootCreator](https://github.com/AmazingCow-Tools/Linux_USBBootCreator.git)
 * [OSX_USBBootCreator](https://github.com/AmazingCow-Tools/OSX_USBBootCreator.git)
 * [super-rename](https://github.com/AmazingCow-Tools/super-rename.git)
