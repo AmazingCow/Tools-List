@@ -40,6 +40,7 @@ Thank you and enjoy :D
 * [License_Header_Checker](https://github.com/AmazingCow-Tools/License_Header_Checker.git)
 * [Linux_USBBootCreator](https://github.com/AmazingCow-Tools/Linux_USBBootCreator.git)
 * [OSX_USBBootCreator](https://github.com/AmazingCow-Tools/OSX_USBBootCreator.git)
+* [RepoBareBones](https://github.com/AmazingCow-Tools/RepoBareBones.git)
 * [super-rename](https://github.com/AmazingCow-Tools/super-rename.git)
 
 
